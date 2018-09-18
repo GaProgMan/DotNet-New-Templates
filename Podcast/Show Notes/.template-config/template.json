@@ -1,0 +1,60 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Jamie Taylor",
+  "classifications": ["markdown"],
+  "name": "New .NET Core Show podcast episode show notes",
+  "generatorVersions": "[1.0.0.0-*)",
+  "description": "Generates a markdown file to contain the show notes for The .NET Core Podcast.",
+  "tags": {
+    "type": "item"
+  },
+  "groupIdentity": "newpodcast",
+  "precedence": "100",
+  "identity": "GaProgMan.Podcast.TheDotNetCoreShow.NewShowNotes",
+  "shortName": "podcast",
+  "primaryOutputs": [ { "path": "episode.md" } ],
+  "defaultName": "episode.md",
+  "preferNameDirectory": true,
+  "sources": [
+    {
+      "source": "./",
+      "target": "./",
+      "exclude": [
+        ".template-config/**",
+        ".git/**"
+      ]
+    }
+  ],
+  "symbols": {
+    "episode-number": {
+      "type": "parameter",
+      "datatype": "string",
+      "description": "The episode number",
+      "replaces": "EP_NUMBER"
+    },
+    "episode-title": {
+      "type": "parameter",
+      "datatype": "string",
+      "description": "The title for the episode",
+      "replaces": "TITLE"
+    },
+    "is-interview": {
+      "type": "parameter",
+      "dataType": "bool",
+      "defaultValue": "false",
+      "description": "Whether this is an interview episode or not (monologue if false)"
+    },
+    "persons-name": {
+      "type": "parameter",
+      "datatype": "string",
+      "description": "The name of the person being interviewed (optional)",
+      "replaces": "PERSONS_NAME"
+    },
+    "persons-twitter": {
+      "type": "parameter",
+      "datatype": "string",
+      "description": "The twitter handle (@) of the person being interviewed (optional)",
+      "replaces": "PERSONS_TWITTER"
+    }
+  }
+}
