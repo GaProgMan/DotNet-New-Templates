@@ -61,7 +61,7 @@ Creating a new instance of a show notes file is a case of running the following 
 
 This will creat a file named `episode.md` with the following content:
 
-```
+``` markdown
 ### Embedded Player
 
 ### Episode Transcription
