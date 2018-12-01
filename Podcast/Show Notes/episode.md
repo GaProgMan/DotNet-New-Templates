@@ -11,8 +11,11 @@ Hello everyone and welcome to THE .NET Core podcast - the only podcast which is 
 
 and not forgetting The .NET Core community, itself.
 
+I am your host, Jamie "GaProgMan" Taylor, and this is episode EP_NUMBER: TITLE
 //#if (is-interview)
-I am your host, Jamie "GaProgMan" Taylor, and this is episode EP_NUMBER: TITLE with PERSONS_NAME. In this episode I interviewed PERSONS_NAME about (Person's niche). Some of you may know PERSONS_NAME from (Places that the Person has worked or contributed towards the community).
+with PERSONS_NAME. In this episode I interviewed PERSONS_NAME about (Person's niche). Some of you may know PERSONS_NAME from (Places that the Person has worked or contributed towards the community).
+//#else
+. In this episode we will introduce TOPIC ...
 //#endif
 
 So lets site back, open up a terminal, type in `dotnet new podcast` and let the show begin.

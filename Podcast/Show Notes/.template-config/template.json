@@ -44,10 +44,16 @@
       "defaultValue": "false",
       "description": "Whether this is an interview episode or not (monologue if false)"
     },
+    "episode-topic" : {
+      "type": "parameter",
+      "datatype": "string",
+      "description": "The topic for the episode (used in the intro, if this is not an interview",
+      "replaces": "TOPIC"
+    },
     "persons-name": {
       "type": "parameter",
       "datatype": "string",
-      "description": "The name of the person being interviewed (optional)",
+      "description": "The name of the person being interviewed (optional - used if this is an interview episode)",
       "replaces": "PERSONS_NAME"
     },
     "persons-twitter": {
