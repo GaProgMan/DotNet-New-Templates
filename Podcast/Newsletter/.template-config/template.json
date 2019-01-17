@@ -1,0 +1,60 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Jamie Taylor",
+  "classifications": ["markdown"],
+  "name": "New .NET Core Show newsletter",
+  "generatorVersions": "[1.0.0.0-*)",
+  "description": "Generates a markdown file to contain an edition of the newletter The .NET Core Podcast.",
+  "tags": {
+    "type": "item"
+  },
+  "groupIdentity": "newsletter",
+  "precedence": "100",
+  "identity": "GaProgMan.Podcast.TheDotNetCoreShow.NewsLetter",
+  "shortName": "newsletter",
+  "primaryOutputs": [ { "path": "newsletter.md" } ],
+  "defaultName": "newsletter.md",
+  "preferNameDirectory": true,
+  "sources": [
+    {
+      "source": "./",
+      "target": "./",
+      "exclude": [
+        ".template-config/**",
+        ".git/**"
+      ]
+    }
+  ],
+  "symbols": {
+    "newsletter-title": {
+      "type": "parameter",
+      "datatype": "string",
+      "description": "The title of the newsletter",
+      "replaces": "NL_TITLE"
+    },
+    "episode-number": {
+      "type": "parameter",
+      "datatype": "string",
+      "description": "The episode number",
+      "replaces": "EP_NUMBER"
+    },
+    "episode-title": {
+      "type": "parameter",
+      "datatype": "string",
+      "description": "The title for the episode (minus the number), e.g. \"Creating the .NET Core Podcast with Jamie Taylor\"",
+      "replaces": "EP_TITLE"
+    },
+    "episode-topic" : {
+      "type": "parameter",
+      "datatype": "string",
+      "description": "A brief synopsis of the episode - \"In this episode of The .NET Core Podcast, we talk with the person about the thing\" ",
+      "replaces": "EP_SNIPPET"
+    },
+    "release-date" : {
+      "type": "parameter",
+      "datatype": "string",
+      "description": "The planned release date for the episode (i.e. January 18, 2019 at 12:30 GMT)",
+      "replaces": "RELEASE_DATE"
+    }
+  }
+}
