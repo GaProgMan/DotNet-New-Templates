@@ -1,12 +1,12 @@
 # Podcast Templates - Show Notes
 
-These templates are used to quickly generate show notes for an episode of [The .NET Core Podcast](https://dotnetcore.show/).
+This templates is used to quickly generate show notes for an episode of [The .NET Core Podcast](https://dotnetcore.show/).
 
 ## Installation
 
 This template can be used to generate an almost empty show notes file for an episode of The .NET Core Podcast.
 
-To create a show notes file, you will need to install the template. Do so by running the following command from within the `Show Notes` directory:
+To create a show notes file, you will need to install the template. Do so by running the following command from within this directory:
 
 `dotnet new --install ./`
 
@@ -59,7 +59,7 @@ Creating a new instance of a show notes file is a case of running the following 
 
 `dotnet new podcast -ii true -pn "Jamie Taylor" -en 0 -et "Jamie's New Podcast" -pt "dotnetcoreblog"`
 
-This will creat a file named `episode.md` with the following content:
+This will create a file named `episode.md` with the following content:
 
 ``` markdown
 ### Embedded Player
