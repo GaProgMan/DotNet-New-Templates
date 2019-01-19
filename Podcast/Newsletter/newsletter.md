@@ -16,13 +16,24 @@ On release day, you'll be able to check out the show notes at: [Episode EP_NUMBE
 
 You can subscribe to the show in a number of ways, here are links to a number of podcasting services which have the show listed:
 
-<a href="https://itunes.apple.com/gb/podcast/the-net-core-podcast/id1433496275" ><img alt="Subscribe to The .NET Core Podcast on Apple Podcasts" src="https://dotnetcore.show/content/images/Apple_Podcasts.png" style="width:300px;max-width:50%"/></a>
-<a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly90aGVkb3RuZXRjb3JlcG9kY2FzdC5saWJzeW4uY29tL3Jzcw%3D%3D" ><img alt="Subscribe to The .NET Core Podcast on Google Podcasts" src="https://dotnetcore.show/content/images/Google_Podcasts.png" style="width:300px;max-width:50%"/></a>
+<a href="https://itunes.apple.com/gb/podcast/the-net-core-podcast/id1433496275"><img alt="Subscribe to The .NET Core Podcast on Apple Podcasts" src="https://dotnetcore.show/content/images/Apple_Podcasts.png" style="width:300px;max-width:50%"/></a>
+<a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly90aGVkb3RuZXRjb3JlcG9kY2FzdC5saWJzeW4uY29tL3Jzcw%3D%3D"><img alt="Subscribe to The .NET Core Podcast on Google Podcasts" src="https://dotnetcore.show/content/images/Google_Podcasts.png" style="width:300px;max-width:50%"/></a>
 <a href="https://www.podchaser.com/TheDotNetCorePodcast?utm_source=The%20.NET%20Core%20Podcast%7C710798&utm_medium=badge&utm_content=TRCASP710798" target="__blank" style="text-decoration:none" ><img alt="Podchaser - The .NET Core Podcast" src="https://imagegen.podchaser.com/badge/TRCASP710798.png" style="width:300px;max-width:50%"/></a>
 
 ### Some Recent Discoveries in The Community
 
+- [A link](https://domain.tld/page-slug)
+
+What's great about this link is
+
 ### Let's Connect
+
+Here are some awesome Communities Where you can find me
+
+1. [PIT Slack Team](https://join.slack.com/t/productivedevs/shared_invite/enQtNDcxNDE5NjAzMjM1LTQ1ZWVjNThhNDE4OTY5YmQ1NzQ0ZWM4NDg2MDIyODZhZjg2Yzk4YzMyNmQzMTI2MTRhYTBlMDI4YzkxZTQwYTk)
+2. [Coding Blocks](https://join.slack.com/t/codingblocks/shared_invite/enQtNTE2NjIyMzE5NDg4LTRhNTZjNzU1MThhOThjODQ2MTI2OWE2OTgxM2FlMDEwZmQ2MjhkYmI2NGY3ZDdiNmJhZTY0NDdjYTg1OWEyMGU)
+3. [Microsoft .NET Core Azure Facebook Group](https://www.facebook.com/groups/msoft.netcore.azure/)
+5. [LIDNUG LinkedIn Group](https://www.linkedin.com/groups/43315/)
 
 ### Sponsoring The Show
 
