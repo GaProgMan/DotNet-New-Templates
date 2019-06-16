@@ -21,7 +21,8 @@
       "target": "./",
       "exclude": [
         ".template-config/**",
-        ".git/**"
+        ".git/**",
+        "README.md"
       ]
     }
   ],
