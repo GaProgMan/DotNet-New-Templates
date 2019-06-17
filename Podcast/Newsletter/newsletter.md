@@ -12,6 +12,48 @@ In this episode of The .NET Core podcast we EP_SNIPPET
 
 On release day, you'll be able to check out the show notes at: [Episode EP_NUMBER - EP_TITLE](https://dotnetcore.show/episode-EPISODE_NO/)
 
+### The Next Episode
+
+##### Episode NUMBER - TITLE
+
+This episode will be published to [Patreon supporters](https://www.patreon.com/TheDotNetCorePodcast) a few days ahead of the "regular" RSS feed on PATREON RELEASE DATE.
+
+This episode of The .NET Core podcast is a discussion on memstate and non-relational, no-SQL database technologies like memstate and how we can cut down on our database sizes without having to rely on those pesky mapping tables and foreign keys. You might be shocked to hear just how much data Robert claims to be able to hold in the RAM of a "modest desktop"
+
+As of sending this email out, the interview with Robert hasn’t been released yet, but will be available on REGULARE RELEASE DATE.
+
+Once it has been released, you’ll be able to check out the show notes at: [Episode NUMBER - TITLE](URL).
+
+### Previous Episodes
+
+Since the previous edition of the newsletter was released, there have been a number of episodes.
+
+#### Episode NUMBER - TITLE
+
+This episode will be published to [Patreon supporters](https://www.patreon.com/TheDotNetCorePodcast) a few days ahead of the "regular" RSS feed on PATREON RELEASE DATE.
+
+This episode of The .NET Core podcast is a discussion on memstate and non-relational, no-SQL database technologies like memstate and how we can cut down on our database sizes without having to rely on those pesky mapping tables and foreign keys. You might be shocked to hear just how much data Robert claims to be able to hold in the RAM of a "modest desktop"
+
+As of sending this email out, the interview with Robert hasn’t been released yet, but will be available on REGULARE RELEASE DATE.
+
+Once it has been released, you’ll be able to check out the show notes at: [Episode NUMBER - TITLE](URL).
+
+### Classic Episode From The Vault
+
+##### Episode 11 - Securing Your Apps Using Lizzie with Thomas Hansen
+
+This episode was an incredilby in depth discussion with Thomas about his (then) brand new programming paradigm of Lizzie, which allowed you to create WebApi applications without having to worry about the security implications inherant in creating them.
+
+Full show notes, including text snippets from the episode and an embedded player are available [here](https://dotnetcore.show/episode-11-but-what-is-lizzie/)
+
+<p style="text-align: right;"><em>As with the episode with Pablo, look out for a new episode with Thomas in the near future</em></p>
+
+### Places You Can Meet/See Me
+
+I don't currently have any speaking engagements lined up, but I'm looking at a number of (UK based) conferences and meetups that I'd like to attend. I'll keep this portion of the newsletter updated (in later editions) with the list of places events that I'll be attending, and if you're around then find me and say hi. I like to think that I'm an approachable sort of chap - and I might have some swag to give away.
+
+If you’re at all interested in having me speak at your event, then please get in touch. The best way is to follow me on Twitter and send me a DM (they’re always open).
+
 ### Subscribing To The Show
 
 You can subscribe to the show in a number of ways, here are links to a number of podcasting services which have the show listed:
@@ -22,29 +64,19 @@ You can subscribe to the show in a number of ways, here are links to a number of
 
 ### Some Recent Discoveries in The Community
 
-- [A link](https://domain.tld/page-slug)
+- [an item](url)
 
-What's great about this link is
+description
 
 ### Let's Connect
 
-Here are some awesome Communities Where you can find me
+Here are some awesome Communities Where you can find me:
 
-1. [PIT Slack Team](https://join.slack.com/t/productivedevs/shared_invite/enQtNDcxNDE5NjAzMjM1LTQ1ZWVjNThhNDE4OTY5YmQ1NzQ0ZWM4NDg2MDIyODZhZjg2Yzk4YzMyNmQzMTI2MTRhYTBlMDI4YzkxZTQwYTk)
-2. [Coding Blocks](https://join.slack.com/t/codingblocks/shared_invite/enQtNTE2NjIyMzE5NDg4LTRhNTZjNzU1MThhOThjODQ2MTI2OWE2OTgxM2FlMDEwZmQ2MjhkYmI2NGY3ZDdiNmJhZTY0NDdjYTg1OWEyMGU)
-3. [Microsoft .NET Core Azure Facebook Group](https://www.facebook.com/groups/msoft.netcore.azure/)
-5. [LIDNUG LinkedIn Group](https://www.linkedin.com/groups/43315/)
+- [The .NET Core Podcast Slack](https://join.slack.com/t/thenetcoreshow/shared_invite/enQtNTY4MTU3MzAyMDE4LWRiZjFmYzE4ODM5ZGViYWJjY2ZhMGZhZjRjNjBlNzE0ZjFjMjJhOWQ3NzA3ZGUwNjE5ZDk1ODliZDFhNzU0ODY?utm_source=dotnetcoreshow&utm_medium=email)
 
-### Sponsoring The Show
+<p style="text-align: right;"><em>yet another podcast-based Slack that you can join, but this time run by me. plus, Patrons get their own area separate from everyone else where they can suggest topics. I’m also doing an AMA with them via this, too</em></p>
 
-Support for The .NET Core Podcast is provided, in part, by our Patreon supporters. To find out more about them, or to become a supporter of the show head over to our [Supporters](https://www.patreon.com/TheDotNetCorePodcast/). Did you know that Patreon supporters get early access to full versions of each episode?
-
-We also have a [ko-fi page](https://ko-fi.com/jayandjaymedia). This is for listeners who may not want to support us on a monthly basis, but more of an ad-hoc one.
-
-<a href="https://jayandjay.media/" target="__blank" style="text-decoration:none" ><img alt="Jay & Jay Media" src="https://dotnetcore.show/content/images/jayandjaymedia.png" style="width:300px;max-width:50%"/></a>
-
-This edition of the mailing list is sponsored by [Jay & Jay Media](https://jayandjay.media/).
-
-> Jay and Jay Media helps entreprenuers promote their brand so they can focus on building it
-
-Would you like to sponsor the show? Then check out our [sponsor page](https://dotnetcore.show/sponsor/) for details on what we have on offer.
+- [PIT Slack Team](https://join.slack.com/t/productivedevs/shared_invite/enQtNDcxNDE5NjAzMjM1LTQ1ZWVjNThhNDE4OTY5YmQ1NzQ0ZWM4NDg2MDIyODZhZjg2Yzk4YzMyNmQzMTI2MTRhYTBlMDI4YzkxZTQwYTk)
+- [Coding Blocks](https://join.slack.com/t/codingblocks/shared_invite/enQtNTE2NjIyMzE5NDg4LTRhNTZjNzU1MThhOThjODQ2MTI2OWE2OTgxM2FlMDEwZmQ2MjhkYmI2NGY3ZDdiNmJhZTY0NDdjYTg1OWEyMGU)
+- [Microsoft .NET Core Azure Facebook Group](https://www.facebook.com/groups/msoft.netcore.azure/)
+- [LIDNUG LinkedIn Group](https://www.linkedin.com/groups/43315/)
