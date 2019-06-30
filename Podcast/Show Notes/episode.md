@@ -1,5 +1,20 @@
 ### Embedded Player
 
+### Supporting The Show
+
+<div id="podcatcher-links">
+    <div class="podcatcher-flexbox">
+        <div class="podcatcher-box">
+            <a href="https://www.buymeacoffee.com/dotnetcoreshow/?utm_medium=email&utm_campaign=dotnetcore" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;max-height: 37px;" ></a>
+        </div>
+        <div class="podcatcher-box">
+            <a href="https://www.patreon.com/bePatron?u=13876270/?utm_medium=email&utm_campaign=dotnetcore" target="_blank"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" alt="Become a Patron" style="height: auto !important;width: auto !important;max-height: 37px;"></a>
+        </div>
+    </div>
+</div>
+    
+If this episode was interesting or useful to you, please consider supporting the show with one of the above options.
+
 ### Episode Transcription
 
 Hello everyone and welcome to THE .NET Core podcast - the only podcast which is devoted to:
