@@ -77,7 +77,7 @@ and not forgetting The .NET Core community, itself.
 
 I am your host, Jamie "GaProgMan" Taylor, and this is episode 0: Jamie's New Podcast with Jamie Taylor. In this episode I interviewed Jamie Taylor about (Person's niche). Some of you may know Jamie Taylor from (Places that the Person has worked or contributed towards the community).
 
-So lets site back, open up a terminal, type in `dotnet new podcast` and let the show begin.
+So lets sit back, open up a terminal, type in `dotnet new podcast` and let the show begin.
 
 ### Jamie Taylor Introduction
 
