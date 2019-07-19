@@ -33,7 +33,7 @@ with PERSONS_NAME. In this episode I interviewed PERSONS_NAME about (Person's ni
 . In this episode we will introduce TOPIC ...
 //#endif
 
-So lets site back, open up a terminal, type in `dotnet new podcast` and let the show begin.
+So lets sit back, open up a terminal, type in `dotnet new podcast` and let the show begin.
 
 //#if (is-interview)
 ### PERSONS_NAME Introduction
