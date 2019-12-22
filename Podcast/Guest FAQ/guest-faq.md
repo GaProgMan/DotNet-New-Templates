@@ -17,6 +17,8 @@ I usually conduct interviews using the SquadCast software-as-a-service platform.
 
 One thing to note about SquadCast is that the default UI includes a map with a vague geo-location of all participants. This can be disabled on a per-guest basis by blocking the geo-location services API when it is requested, this will not affect the quality of the recording. However, according to their support channels, using a VPN may cause issues with the recording. If this is likely ot cause an issue, we can arrange another way of performing the interview.
 
+SquadCast will also ask for video permissions. Video footage will not be used for the recording, as such it is recommended to not share video. Doing so will require more bandwidth, and could potentially affect the recording.
+
 Having headphones, earphones or some other form of audio monitor will ensure that there is no audio feedback from a combination of the speakers that your computer uses and the microphone that you are using.
 
 ## How Will You Arrange The Interview?
